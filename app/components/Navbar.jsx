@@ -59,7 +59,7 @@ const Navbar = () => {
             <FaLinkedin size={20} />
           </a>
           <a
-            href="https://github.com/MounikaMacharla"
+            href="https://github.com/NimoMach"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
