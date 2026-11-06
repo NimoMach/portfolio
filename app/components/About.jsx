@@ -32,7 +32,7 @@ const AboutMe = () => {
         <div className="flex-1 bg-lightHover dark:bg-gray-900 p-6 rounded-xl shadow-none hover:shadow-black dark:hover:shadow-white transform transition duration-300 ease-in-out hover:-translate-y-2">
           <h3 className="text-2xl font-Outfit mb-2">Skills</h3>
           <p className="text-gray-700 dark:text-gray-300">
-            MERN Stack, React, Next.js, Python, MySQL, HTML, CSS, Bootstrap, JavaScript.
+            MERN Stack, React.js, Next.js, Python, MySQL, Java, HTML, CSS, Bootstrap, JavaScript.
           </p>
         </div>
 
@@ -40,7 +40,7 @@ const AboutMe = () => {
         <div className="flex-1 bg-lightHover dark:bg-gray-900 p-6 rounded-xl shadow-none hover:shadow-black dark:hover:shadow-white transform transition duration-300 ease-in-out hover:-translate-y-2">
           <h3 className="text-2xl font-Outfit mb-2">Experience</h3>
           <p className="text-gray-700 dark:text-gray-300">
-            Worked in TCS , contributed to many open source projects.
+            Worked in TCS as ASE-Trainee. <br/>Contributed to many open source projects.<br/>Qualified GATE CS Paper-2025.
           </p>
         </div>
       </div>
